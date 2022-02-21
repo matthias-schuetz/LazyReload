@@ -1,7 +1,7 @@
 /**
  * LazyReload.js
  * A small library that reloads a web page when defined files have been modified.
- * Matthias Schuetz, http://matthiasschuetz.com
+ * Matthias Schuetz, https://github.com/matthias-schuetz
  *
  * Copyright (C) Matthias Schuetz
  * Free to use under the MIT license
